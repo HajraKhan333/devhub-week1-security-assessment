@@ -42,5 +42,5 @@ The goal was to identify common web application vulnerabilities and document pos
 ## 📂 Deliverables
 - 📄 [Week 1 Report (PDF)](./Week1-Report.pdf)  
 - 🎥 [Video Demonstration](https://drive.google.com/file/d/16CWmtwXkp5AvkErDzDoRH7Kp8FYgI_53/view?usp=drive_link)  
-- 📂 ZAP Scan Report → -ZAP-Report-
+- 📂 ZAP Scan Report → /zap-report
 ---
